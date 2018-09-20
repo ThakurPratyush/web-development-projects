@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+ margin:0;
+ padding:0;
+}
+#container
+{
+ margin:0 auto;
+ height:7000px;
+ width:1360px;
+ background color:#FFFFFF;
+ }
+#header
+{
+width:1360px;
+height:100px;
+margin:0;
+background-color:#FFFFFF;
+background-position:top;
+}
+#logo
+{
+height:50px;
+width:150px;
+padding-bottom:20px;
+padding-right:20px;
+background-color:#00CCFF;
+background-image: url(../images/The-Knot-logo%20(1).jpg);
+
+}
+#menu
+{
+background-color:
+#33CCFF;
+color: #FF66CC;
+      height:30px;
+      width:1360px;
+}
+#content
+{
+height:6500px;
+width:1360px;
+
+background-image:url(../images/luxury-wedding-planner-sarahhaywood.jpg); 
+background-position:top;
+background-size:stretch;
+} 
+

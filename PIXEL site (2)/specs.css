@@ -1,0 +1,290 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	font-family: Roboto;
+}
+
+html, body{
+	color:#828585;
+	display: -webkit-box;
+	-webkit-box-pack: center;
+	width:1349px;
+	height:100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+header, footer, nav, aside, article{
+	display: block;
+}
+
+a{
+	text-decoration: none;
+}
+
+#right_side{
+	margin-top:-20px;
+	margin-left:-160px;
+	background-color:#4285F4;
+	padding:5px;
+	display: block;
+    height: 50px;
+	width:170px;
+    line-height: 50px;
+	text-align:center;
+	color:white;
+}
+
+#left_side{
+	margin-left:13px;
+}
+
+#header_head{
+	display:-webkit-box;
+	-webkit-box-flex: 1;
+	-webkit-box-orient: vertical;
+	width:1349px;
+	color:#828585;
+	position:fixed;
+	background-color:white;
+	z-index: 100;
+}
+
+#top_bar{
+	display:-webkit-box;
+	-webkit-box-flex: 1;
+	height:20px;
+	padding:20px;
+	border-bottom: 1px solid #4285F4;
+}
+
+
+nav{
+	margin-top:1px;
+	padding:10px;
+	padding-left:30px;
+	-webkit-box-shadow:gray 2px 2px 5px;
+}
+
+nav li{
+	display: inline-block;
+	list-style:none;
+	padding:2px;
+	margin-right:20px;
+	font-size:15px;
+}
+
+#goog{
+	height:23px;
+	 top: 50%;
+    left: 50%;
+}
+
+footer{
+	display:-webkit-box;
+	-webkit-box-flex:1;
+	-webkit-box-orient:vertical;
+	background-color:#f6f6f6;
+	color:#828585;
+	height:100px;
+	width:1309px;
+	text-align:center;
+	padding:20px;
+	margin-top:50px;
+}
+
+#fu{
+	display:-webkit-box;
+	padding:0px 100px;
+}
+
+#icons{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	margin-left:30px;
+}
+
+#line{
+	display:-webkit-box;
+	padding-top:40px;
+}
+
+#below_text{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	padding:20px 100px;
+}
+
+
+p{
+    line-height: 1.5;
+}
+
+#part1{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	text-align:center;
+	height:850px;
+	background-color: #f6f6f6;
+	margin-bottom: 100px;
+}
+
+#phn{
+	margin:60px;
+}
+
+#disp{
+	position: absolute;
+    z-index: 5;
+    width: 130px;
+    height: 150px;
+    margin-top: -500px;
+    margin-left: 228px;
+	text-align: right;
+	color:#4285F4;
+}
+
+#sline{    
+	width: 2px;
+    height: 30px;
+    background-color: #4285F4;
+    margin-left: 127px;
+}
+
+#disp2{
+	position: absolute;
+    z-index: 5;
+    width: 130px;
+    height: 150px;
+    margin-top: -200px;
+    margin-left: 100px;
+	text-align: right;
+	color:#4285F4;
+}
+
+#disp3{
+	position: absolute;
+    z-index: 5;
+    width: 400px;
+    height: 50px;
+    margin-top: -70px;
+    margin-left: 280px;
+	text-align: right;
+	color:#4285F4;
+}
+
+#disp4{
+	position: absolute;
+    z-index: 5;
+    width: 140px;
+    height: 180px;
+    margin-top: -380px;
+    margin-left: 885px;
+	text-align: right;
+	color:#4285F4;
+}
+
+#disp5{
+	position: absolute;
+    z-index: 5;
+    width: 250px;
+    height: 100px;
+    margin-top: -363px;
+    margin-left: 862px;
+	text-align: left;
+	color:#4285F4;
+}
+
+#sline2{    
+	width: 2px;
+    height: 130px;
+    background-color: #4285F4;
+    margin-left: 0px;
+}
+
+#disp6{
+	position: absolute;
+    z-index: 5;
+    width: 150px;
+    height: 200px;
+    margin-top: -386px;
+    margin-left: 918px;
+	text-align: left;
+	color:#4285F4;
+}
+
+#sline3{    
+	width: 2px;
+    height: 100px;
+    background-color: #4285F4;
+    margin-left: 0px;
+}
+
+#part2{
+	margin-top:100px;
+	height:100%;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	text-align:center;
+}
+
+#phones{
+	height:500px;
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	text-align:center;
+}
+
+#colors{
+	height:100px;
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}
+
+#black1{
+	height:30px;
+	width:30px;
+	margin-left: 360px;
+}
+
+#silver1{
+	height:30px;
+	width:30px;
+	margin-left: -950px;
+}
+
+#black2{
+	height:30px;
+	width:30px;
+	margin-left:-1765px;
+}
+
+#silver2{
+	height:30px;
+	width:30px;
+	margin-left:-3075px;
+}
+
+#part3{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:100%;
+	margin-bottom: 50px;
+}
+
+#one{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}
+
+.two{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	margin:20px;
+}
+
+#part4{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:2700px;
+	margin-bottom: 100px;
+}

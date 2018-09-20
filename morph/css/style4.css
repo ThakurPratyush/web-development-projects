@@ -1,0 +1,70 @@
+#header
+{
+background-color: black;
+}
+#t1
+{
+color: white;
+    font-size: 17px;
+}
+#menu
+{
+    margin-left: 767px;
+}
+#left
+{
+    background-color: white;
+    width: 130px;
+    float: left;
+    height: 600px;
+}
+#right
+{
+    background-color: white;
+    width: 130px;
+    float: right;
+    height: 600px;
+}
+#first
+{
+width:1000px;
+}
+#trend
+{
+background-color: aliceblue;
+}
+#two
+{
+    margin-left: 333px;
+    margin-top: -246px;
+}
+#three
+{
+margin-left: 670px;
+    margin-top: -255px;
+}
+#four
+{
+margin-left: 1009px;
+    margin-top: -248px;
+}
+#footer
+{
+    background-color: gray;
+    color: white;
+}
+#z2
+{
+float:right;
+margin-top: -168px;
+}
+#z3
+{
+margin-left: 234px;
+    margin-top: -154px;
+}
+#z4
+{
+margin-left: 488px;
+    margin-top: -114px;
+}

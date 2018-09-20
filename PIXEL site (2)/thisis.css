@@ -1,0 +1,300 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	font-family: Roboto;
+}
+
+html, body{
+	display: -webkit-box;
+	-webkit-box-pack: center;
+	width:1349px;
+	height:100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+header, footer, nav, aside, article{
+	display: block;
+}
+
+a{
+	text-decoration: none;
+}
+
+#right_side{
+	margin-top:-20px;
+	margin-left:-160px;
+	background-color:#4285F4;
+	padding:5px;
+	display: block;
+    height: 50px;
+	width:170px;
+    line-height: 50px;
+	text-align:center;
+	color:white;
+}
+
+#left_side{
+	margin-left:13px;
+}
+
+#header_head{
+	display:-webkit-box;
+	-webkit-box-flex: 1;
+	-webkit-box-orient: vertical;
+	width:1349px;
+	color:#828585;
+	position:fixed;
+	background-color:white;
+}
+
+#top_bar{
+	display:-webkit-box;
+	-webkit-box-flex: 1;
+	height:20px;
+	padding:20px;
+	border-bottom: 1px solid #4285F4;
+}
+
+
+nav{
+	margin-top:1px;
+	padding:10px;
+	padding-left:30px;
+	-webkit-box-shadow:gray 2px 2px 5px;
+}
+
+nav li{
+	display: inline-block;
+	list-style:none;
+	padding:2px;
+	margin-right:20px;
+	font-size:15px;
+}
+
+#goog{
+	height:23px;
+	 top: 50%;
+    left: 50%;
+}
+
+footer{
+	display:-webkit-box;
+	-webkit-box-flex:1;
+	-webkit-box-orient:vertical;
+	background-color:#f6f6f6;
+	color:#828585;
+	height:450px;
+	text-align:center;
+	padding:20px;
+	margin-top:30px;
+}
+
+#fu{
+	display:-webkit-box;
+	padding:0px 100px;
+}
+
+#icons{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	margin-left:30px;
+}
+
+#line{
+	display:-webkit-box;
+	padding-top:40px;
+}
+
+#below_text{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	padding:20px 100px;
+}
+#symbols{
+	padding:50px 100px;
+}
+
+#symbols li{
+	list-style:none;
+	text-align:left;
+	font-size:13px;
+	padding-bottom:20px;
+}
+
+#main_body{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	padding:50px 100px;
+	color:#828585;
+}
+
+#part1{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	margin-top: 100px;
+	height:700px;
+	padding-top:50px;
+}
+
+#par{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	text-align:left;
+	height:550px;
+	margin-right:600px;
+}
+
+#left1{
+	text-align:left;
+	height:50px;
+	margin-top:100px;
+}
+
+#no_name{
+	margin-top: 100px;
+}
+
+#right1{
+	width:250px;
+	height: 550px;
+	margin-left: -450px;
+}
+
+#part2{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	height:800px;
+	background-color:#f6f6f6;
+	margin:50px 0px;
+	color:#828585;
+}
+
+#left2{
+	margin:60px;
+	margin-right:530px;
+}
+
+#right2{
+	    margin: 150px;
+    margin-left: -400px;
+}
+
+#right2 li{
+	display: inline-block;
+	list-style:none;
+	padding:2px;
+	margin-right:20px;
+	font-size:15px;
+}
+
+a:visited{
+	text-decoration: none; 
+    decoration: none; 
+}
+
+#part3{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:1000px;
+	margin:100px 0px;
+	color:#828585;
+	text-align:center;
+}
+
+#top{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+}
+
+#bottom{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}
+
+#bottom li{
+	display: inline-block;
+	list-style:none;
+	padding:60px;
+	margin-right:20px;
+	margin-left:20px;
+	font-size:15px;
+}
+
+#part4{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:1000px;
+	margin:100px 0px;
+	color:#828585;
+	text-align:center;
+}
+
+#part5{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	height:800px;
+	background-color:#f6f6f6;
+	margin:50px 0px;
+	color:#828585;
+}
+
+#right5{
+	     margin: 320px;
+    margin-left: -690px;
+}
+
+#part6{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:1000px;
+	margin:100px 0px;
+	color:#828585;
+	text-align:center;
+}
+
+#part6 li{
+	display: inline-block;
+	list-style:none;
+	padding:60px;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+#part7{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:1000px;
+	margin:200px 0px;
+	color:#828585;
+	text-align:center;
+}
+
+#inner7{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}
+
+#right7{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	margin: 320px;
+    margin-left: -567px;
+    margin-top: 53px;
+}
+
+#one, #two, #three, #lnk{
+	display:block;
+	padding-top:70px;
+}
+
+#part8{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:500px;
+	margin:200px 0px;
+	color:#828585;
+	text-align:center;
+}
+p{
+    line-height: 1.5;
+}

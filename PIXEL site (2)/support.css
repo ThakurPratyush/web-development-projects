@@ -1,0 +1,173 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	font-family: Roboto;
+}
+
+html, body{
+	display: -webkit-box;
+	-webkit-box-pack: center;
+	width:1349px;
+	height:100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+header, footer, nav, aside, article{
+	display: block;
+}
+
+a{
+	text-decoration: none;
+}
+
+#right_side{
+	margin-top:-20px;
+	margin-left:-160px;
+	background-color:#4285F4;
+	padding:5px;
+	display: block;
+        height: 50px;
+	width:170px;
+        line-height: 50px;
+	text-align:center;
+	color:white;
+}
+
+#left_side{
+	margin-left:13px;
+}
+
+#header_head{
+	display:-webkit-box;
+	-webkit-box-flex: 1;
+	-webkit-box-orient: vertical;
+	width:1349px;
+	color:#828585;
+	position:fixed;
+	background-color:white;
+}
+
+#top_bar{
+	display:-webkit-box;
+	-webkit-box-flex: 1;
+	height:20px;
+	padding:20px;
+	border-bottom: 1px solid #4285F4;
+}
+
+
+nav{
+	margin-top:1px;
+	padding:10px;
+	padding-left:30px;
+	-webkit-box-shadow:gray 2px 2px 5px;
+}
+
+nav li{
+	display: inline-block;
+	list-style:none;
+	padding:2px;
+	margin-right:20px;
+	font-size:15px;
+}
+
+#goog{
+	height:23px;
+	 top: 50%;
+    left: 50%;
+}
+
+footer{
+	display:-webkit-box;
+	-webkit-box-flex:1;
+	-webkit-box-orient:vertical;
+	background-color:#f6f6f6;
+	color:#828585;
+	height:150px;
+        width: 1309px;
+	text-align:center;
+	padding:20px;
+	margin-top:30px;
+}
+
+#fu{
+	display:-webkit-box;
+	padding:0px 100px;
+}
+
+#icons{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	margin-left:30px;
+}
+
+#line{
+	display:-webkit-box;
+	padding-top:40px;
+}
+
+#below_text{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	padding:20px 100px;
+}
+
+#main_body{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	padding:50px 100px;
+	color:#828585;
+}
+
+
+
+#part7{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	height:1000px;
+	margin:50px 0px;
+	color:#828585;
+	text-align:center;
+}
+
+#inner7{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}
+
+#right7{
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	margin: 320px;
+    margin-left: -760px;
+    margin-top: 70px;
+}
+
+#one, #two{
+	display:block;
+}
+
+p{
+    line-height: 1.5;
+}
+
+#part8{
+    display:-webkit-box;
+    -webkit-box-orient:horizontal;
+    height:350px;
+    margin:50px 0px;
+    margin-top: -170px;
+    color:#828585;
+    text-align:center;
+    background-color: #f6f6f6;
+}
+
+#left{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+#right{
+    margin-top: 100px;
+    margin-left: -500px;
+}

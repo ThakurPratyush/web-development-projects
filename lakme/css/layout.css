@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin:0;
+	padding:0;
+}
+
+#container
+{
+	width:1350px;
+	height:650px;
+	background-color:#FCF;
+	margin:0 auto;
+}
+#header
+{
+
+	width:1350px;
+	height:100px;
+	background-color: #96C;
+}
+#logo
+{
+	width:60px;
+	height:60px;
+	background-color:#CCC;
+	background-image: 
+	url(../../kuljeet1-php/images/photo.jpg);
+	
+	float:left;
+	margin-top:10px;
+	margin-left:30px;
+		}
+#search
+{
+	width:250px;
+	height:30px;
+	float:right;
+	margin-right:30px;
+	margin-top:30px;
+	background-color:white;
+}
+#menu
+{
+	width:1350px;
+	height:30px;
+	background-color:black;
+}
+#content
+{
+	width:1350px;
+	height:450px;
+
+}
+	
+#left
+{
+	float:left;
+	width:100px;
+	height:450px;
+	
+}
+#mid
+{
+	float: left;
+	width:1150px;
+	height:450px;
+	background-color:white;
+}
+#right
+{ 
+float:right;
+	width:100px;
+	height:450px;
+}
+#footer
+{
+	width:1350px;
+	height:100px;
+	background-color: #96C;
+}
+	

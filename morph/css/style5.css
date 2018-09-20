@@ -1,0 +1,58 @@
+#header
+{
+background-color: black;
+}
+#t1
+{
+color: white;
+    font-size: 17px;
+}
+#menu
+{
+    margin-left: 767px;
+}
+#left
+{
+    background-color: aliceblue;
+    width: 130px;
+    float: left;
+    height: 900px;
+}
+#right
+{
+    background-color: aliceblue;
+    width: 130px;
+    float: right;
+    height: 900px;
+}
+#shead
+{
+background-color: beige;
+    height: 53px;
+    margin-top: -22px;
+}
+#four
+{
+margin-left: 224px;
+    margin-top: 15px;
+}
+#footer
+{
+    background-color: gray;
+    color: white;
+}
+#z2
+{
+float:right;
+margin-top: -168px;
+}
+#z3
+{
+margin-left: 234px;
+    margin-top: -154px;
+}
+#z4
+{
+margin-left: 488px;
+    margin-top: -114px;
+}

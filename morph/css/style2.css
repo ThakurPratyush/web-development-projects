@@ -1,0 +1,59 @@
+#header
+{
+background-color: black;
+}
+#t1
+{
+color: white;
+    font-size: 17px;
+}
+#menu
+{
+    margin-left: 767px;
+}
+#main
+{
+margin: auto;
+    width: 1090px;
+}
+#table
+{
+
+    width: 545px;
+margin-left: 535px;
+height: 600px;
+    margin-top: -707px;
+}
+#innertable
+{
+ text-align:center;
+}
+#map
+{
+    background-color: white;
+    width: 617px;
+    height: 717px;
+}
+#footer
+{
+    background-color: gray;
+    color: white;
+     width: 1350px;
+    margin-left: -131px;
+    margin-top: -20px;
+}
+#z2
+{
+float:right;
+margin-top: -168px;
+}
+#z3
+{
+margin-left: 234px;
+    margin-top: -154px;
+}
+#z4
+{
+margin-left: 488px;
+    margin-top: -114px;
+}

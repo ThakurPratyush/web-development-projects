@@ -1,0 +1,187 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+padding:0;
+margin:0;
+background:url(../images/bot_bg.png) no-repeat bottom center;
+padding-bottom:25px;
+}
+#container
+{
+height:1686px;
+width:1350px;
+padding:0;
+margin:0 auto;
+background-color: #FFFFFF;
+}
+
+#header
+{
+height:200px;
+width:1350px;
+padding:0;
+background-color: #000000;
+margin:0;
+}
+#logo
+{
+  width: 258px;
+  height: 105px;
+  margin-top: 26px;
+  margin-left: 106px;
+background-color:#6633;
+background-image: url(../images/logo-lakmeBridal.png);
+ float:left;
+}
+.LOGIN
+{
+height: 30px;
+  width: 205px;
+  float: right;
+  color: #FFCC99;
+  margin-right: 253px;
+  margin-top: 45px;
+  text-align: center;
+  font-size: inherit;
+  outline: black;
+  border-color: black;
+    cursor: pointer;
+  }
+  
+.bridalstylist
+  {    width: 450px;
+  height: 30px;
+  color:BLACK;
+  float: right;
+  text-align: center;
+  font-size: medium;
+  padding-bottom: 8px;
+  margin-top: 125px;
+  margin-right: -341px;
+    cursor: pointer;
+background-color:#FFCC99;
+}
+.menu 
+{
+height:50px;
+width:1150px;
+background-color:WHITE;
+margin:0 auto;
+position:relative;
+line-height:3;
+vertical-align:baseline;
+}
+.menu ul {
+height:50px;
+width:1150px;
+line-height:3;
+letter-spacing:2px;
+word-spacing:0px;
+display:block;
+background-color: rgb(8, 8, 8);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.menu li {
+    float: left;
+	white-space: normal;
+}
+
+.menu a:link, a:visited {
+    display: inline;
+    width:1100px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-coloR:#000000;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+  margin-left: 18px;
+    margin: 10px;
+}
+
+.menu a:hover, a:active {
+    background-color: #333333;
+color: #FFCC99;
+}
+#header1
+{
+
+height:130px;
+width:1350px;
+padding:0;
+background-color: #FFFFFF;
+margin:0;
+}
+
+
+#log
+{
+  margin-left: 207px;
+  margin-top: 30px;
+width:65px;
+height:72px;
+background-color:#009999;
+background-image:url(../images/ulogo.png);
+float: left;
+}
+#lang
+{
+margin-top: 60px;
+  margin-right: 100px;
+float:right;
+background-color: #FFFFFF;
+}
+#content
+{
+width:1004px;
+margin:0 auto;
+height:620px;
+background:url(../images/top_bg.png) no-repeat top left;
+padding:0;
+}
+#footer
+{
+height:402px;
+width:1350px;
+background-color:#2D2A2A;
+position:relative;
+  margin-left: -173px;
+  margin-top: 45px;
+}
+.map
+{
+  margin-left: 80px;
+  }
+.map ul
+{
+color:#CCCCCC;
+list-style-type:none;
+size:10px;
+}
+.private
+{
+float:left;
+}
+.private ul
+
+{
+  margin-left: 345px;
+  margin-top: -200px;
+color:
+#CCCCCC;
+list-style-type:none;
+size:10px;
+}
+#copyright
+{
+float:right;
+color: #CCCCCC;
+margin-right:80px;
+
+}

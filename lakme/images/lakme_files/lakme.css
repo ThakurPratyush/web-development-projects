@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+padding:0;
+margin:0;
+
+}
+#container
+{
+height:4000px;
+width:1350px;
+padding:0;
+margin:0 auto;
+background-color:#663399;
+}
+#header
+{
+height:200px;
+width:1350px;
+padding:0;
+margin:0;
+}
+#logo
+{
+  width: 258px;
+  height: 105px;
+  margin-top: 26px;
+  margin-left: 106px;
+background-color:#6633;
+background-image: url(../images/logo-lakmeBridal.png);
+ float:left;
+}
+.LOGIN
+{
+height:50px;
+width:200px;
+float:right;
+background-color:#FF9999;
+  margin-right: 300px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: x-small;
+}
+.SIGN UP
+{
+  height: 50px;
+  width: 200px;
+  float: right;
+  background-color: rgb(180, 229, 240);
+
+  margin-top: 50px;
+  font-size: smaller;
+  text-align: center;
+  }
+  .bridalstylist
+  {
+  height: 52px;
+  width: 400px;
+  float: right;
+  background-color: azure;
+  margin-top: 117px;
+  margin-right: -400px;
+  font-size: medium;
+
+  
+  }
+#menu
+{
+width:100px;
+
+}
